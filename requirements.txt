@@ -1,0 +1,5 @@
+streamlit
+requests
+folium
+streamlit_folium
+python-dotenv
